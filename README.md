@@ -8,4 +8,4 @@ Aluna: Beatriz Magalhães
 
 ### Inserindo uma imagem
 
-![Logo do python](https://img2.gratispng.com/20180715/uwc/kisspng-python-django-scikit-learn-javascript-programming-support-vector-machine-5b4bda1d9d21d6.4676602015316976936436.jpg)
+![Logo do python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
